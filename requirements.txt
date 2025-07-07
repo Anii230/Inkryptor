@@ -3,4 +3,5 @@ cffi==1.17.1
 click==8.2.1
 cryptography==45.0.5
 pillow==11.3.0
+platformdirs==4.3.8
 pycparser==2.22
