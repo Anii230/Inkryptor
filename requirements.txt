@@ -1,7 +1,7 @@
-bcrypt==4.3.0
-cffi==1.17.1
-click==8.2.1
-cryptography==45.0.5
-pillow==11.3.0
-platformdirs==4.3.8
-pycparser==2.22
+bcrypt==5.0.0
+cffi==2.1.1
+click==8.5.0
+cryptography==50.0.2
+pillow==13.0.0
+platformdirs==4.14.5
+pycparser==3.12
