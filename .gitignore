@@ -4,3 +4,23 @@ __pycache__/
 *.cfg
 .inkryptor*
 .python-version
+
+# Generated encrypted images
+output/*
+!output/.gitkeep
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local test images
+cover.png
+secret.png

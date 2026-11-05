@@ -252,4 +252,5 @@ def info(image: Path):
 
 
 if __name__ == "__main__":
-    cli()
+    from inkryptor.ui import run
+    run()

@@ -1,11 +1,17 @@
+bcrypt==5.0.0
 cffi==2.1.1
 click==8.5.0
 cryptography==50.0.2
 iniconfig==2.3.1
+markdown-it-py==4.2.0
+mdurl==0.1.2
 packaging==26.3
 pillow==13.0.0
 platformdirs==4.14.5
 pluggy==1.7.0
+prompt_toolkit==3.0.53
 pycparser==3.12
 Pygments==2.21.0
 pytest==9.2.0
+rich==15.0.0
+wcwidth==0.9.4
